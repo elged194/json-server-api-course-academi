@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "NEXT.JS Cours",
-      "price": "110.99",
+      "price": "120.99",
       "description": "Your perfect pack for everyday use and walks in the forest. ",
       "category": "men's clothing",
       "image": "https://res.cloudinary.com/dyxoy6dpx/image/upload/v1713339423/OIP_56ddcd95de.jpg"
@@ -32,10 +32,10 @@
       "id": 6
     },
     {
-      "title": "test",
-      "image": "https://plus.unsplash.com/premium_photo-1718119453300-73be4e1b6212?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHx8",
-      "description": "loooo......",
+      "title": "testtttttttttt",
       "price": "22.35",
+      "description": "loooo......",
+      "image": "https://plus.unsplash.com/premium_photo-1718119453300-73be4e1b6212?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHx8",
       "id": 7
     },
     {
@@ -81,18 +81,17 @@
       "id": 14
     }
   ],
-  
   "users": [
     {
       "username": "Hussein Sadiq Elged",
-      "password": "1",
+      "password": "$2a$10$uAnOW6rxSSblvFWzOQ76Z.KNfaek9F7sL1sM47YXPDj8AV6dzrFO2",
       "email": "elged194@gmail.com",
       "image": "/sons.jpg",
       "id": 1
     },
     {
-      "username": "Hussein Sadiq Elged",
-      "password": "1",
+      "username": "Hussein Sadiq",
+      "password": "$2a$10$DTcUJS7N2C7k5xE3H/mNT.xWtFk2OmQfC4z9hSQKoa5afRvUCbLHy",
       "email": "dev_drive@outlook.com",
       "id": 2
     },
@@ -107,13 +106,102 @@
       "email": "ssss@gmail.com",
       "password": "123",
       "id": 4
-    }
-    ,
+    },
     {
-      "username": "hussss",
-      "email": "aaq@gmail.com",
-      "password": "123456789",
-      "id": 5
+      "username": "husseinElged",
+      "email": "aa@gmail.com",
+      "password": "11111111",
+      "id": 6
+    },
+    {
+      "username": "husseinElged",
+      "email": "ss@gmail.com",
+      "password": "11111111",
+      "id": 7
+    },
+    {
+      "email": "sa@gmail.com",
+      "password": "$2a$10$8TKjnZPofFR3J8lTLF1gge7FJY7i1ebgZrdMokikfBLSuf6PErcp6",
+      "username": "husseinElged",
+      "id": 8
+    },
+    {
+      "email": "s@gmail.com",
+      "password": "$2a$10$L8qbe/X8STDG7O/x.7Lac.UX//U.gCpH9QBaMG/nd95xME9dIHCaC",
+      "username": "H.S.G",
+      "id": 9,
+      "purchases": [
+        {
+          "productId": 1,
+          "quantity": 2,
+          "title": "React js Cours",
+          "price": "80.99",
+          "purchaseDate": "2024-08-12",
+          "image": "https://res.cloudinary.com/dyxoy6dpx/image/upload/v1713333541/medium_R_1_661b03e49b.png"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "username": "hussein s Elged",
+      "email": "c@gmail.com",
+      "password": "$2a$10$V7Vy/75xMhHUIxqiweoeLOjemH6g3Hxf2UDEELrKEZ1KLUG/bIfjS",
+      "purchases": [
+        {
+          "productId": 1,
+          "quantity": 2,
+          "title": "React js Cours",
+          "price": "80.99",
+          "purchaseDate": "2024-08-12",
+          "image": "https://res.cloudinary.com/dyxoy6dpx/image/upload/v1713333541/medium_R_1_661b03e49b.png"
+        }
+      ]
+    },
+    {
+      "id": "781342",
+      "username": "husseinElged",
+      "email": "x@gmail.com",
+      "password": "$2a$10$QNgQgQLKzF.iimVvDUgf8eu6P05F8PCqCNrDd7H0quFt//3Va5sOe",
+      "purchases": []
+    },
+    {
+      "id": "698069",
+      "username": "bb",
+      "email": "xx@gmail.com",
+      "password": "$2a$10$6XF6PKrWBfRk6KzuJdy74OQZXnjbph/YvD6FWuaalKW.NQOMTvBRy",
+      "purchases": []
+    },
+    {
+      "id": "595988",
+      "username": "hhhhhh",
+      "email": "xxx@gmail.com",
+      "password": "$2a$10$f2MKKL7cwnCWVqlBUvuR2evlVmAjl7Y02fDJNHfyta2oNEzVOLXtW",
+      "purchases": [
+        {
+          "id": 1,
+          "title": "NEXT.JS Cours",
+          "price": "120.99",
+          "description": "Your perfect pack for everyday use and walks in the forest. ",
+          "category": "men's clothing",
+          "image": "https://res.cloudinary.com/dyxoy6dpx/image/upload/v1713339423/OIP_56ddcd95de.jpg"
+        },
+        {
+          "id": 2,
+          "title": "React.js",
+          "price": "22.98",
+          "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket.",
+          "category": "men's clothing",
+          "image": "https://res.cloudinary.com/dyxoy6dpx/image/upload/v1713333541/medium_R_1_661b03e49b.png"
+        },
+        {
+          "id": 3,
+          "title": "Next.js",
+          "price": "80.99",
+          "description": "great outerwear jackets for Spring/Autumn/Winter.",
+          "category": "men's clothing",
+          "image": "https://res.cloudinary.com/dyxoy6dpx/image/upload/v1713241383/R_4514da55bc.png"
+        }
+      ]
     }
   ]
 }
