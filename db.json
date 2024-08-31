@@ -87,7 +87,8 @@
       "password": "$2a$10$uAnOW6rxSSblvFWzOQ76Z.KNfaek9F7sL1sM47YXPDj8AV6dzrFO2",
       "email": "elged194@gmail.com",
       "image": "/sons.jpg",
-      "id": 1
+      "id": 1,
+      "purchases": []
     },
     {
       "username": "Hussein Sadiq",
@@ -126,56 +127,10 @@
       "id": 8
     },
     {
-      "email": "s@gmail.com",
-      "password": "$2a$10$L8qbe/X8STDG7O/x.7Lac.UX//U.gCpH9QBaMG/nd95xME9dIHCaC",
-      "username": "H.S.G",
-      "id": 9,
-      "purchases": [
-        {
-          "productId": 1,
-          "quantity": 2,
-          "title": "React js Cours",
-          "price": "80.99",
-          "purchaseDate": "2024-08-12",
-          "image": "https://res.cloudinary.com/dyxoy6dpx/image/upload/v1713333541/medium_R_1_661b03e49b.png"
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "username": "hussein s Elged",
-      "email": "c@gmail.com",
-      "password": "$2a$10$V7Vy/75xMhHUIxqiweoeLOjemH6g3Hxf2UDEELrKEZ1KLUG/bIfjS",
-      "purchases": [
-        {
-          "productId": 1,
-          "quantity": 2,
-          "title": "React js Cours",
-          "price": "80.99",
-          "purchaseDate": "2024-08-12",
-          "image": "https://res.cloudinary.com/dyxoy6dpx/image/upload/v1713333541/medium_R_1_661b03e49b.png"
-        }
-      ]
-    },
-    {
-      "id": "781342",
-      "username": "husseinElged",
-      "email": "x@gmail.com",
-      "password": "$2a$10$QNgQgQLKzF.iimVvDUgf8eu6P05F8PCqCNrDd7H0quFt//3Va5sOe",
-      "purchases": []
-    },
-    {
-      "id": "698069",
-      "username": "bb",
-      "email": "xx@gmail.com",
-      "password": "$2a$10$6XF6PKrWBfRk6KzuJdy74OQZXnjbph/YvD6FWuaalKW.NQOMTvBRy",
-      "purchases": []
-    },
-    {
       "id": "595988",
-      "username": "hhhhhh",
+      "username": "Hussein xxx",
       "email": "xxx@gmail.com",
-      "password": "$2a$10$f2MKKL7cwnCWVqlBUvuR2evlVmAjl7Y02fDJNHfyta2oNEzVOLXtW",
+      "password": "$2a$10$Dvxx7cV5wQZE5JUpgN/5zeuJ0nVnCg6BskgHqcrV6.DfMh2VVro2u",
       "purchases": [
         {
           "id": 1,
@@ -200,8 +155,45 @@
           "description": "great outerwear jackets for Spring/Autumn/Winter.",
           "category": "men's clothing",
           "image": "https://res.cloudinary.com/dyxoy6dpx/image/upload/v1713241383/R_4514da55bc.png"
+        },
+        {
+          "title": "java script",
+          "image": "https://res.cloudinary.com/dyxoy6dpx/image/upload/v1713345162/large_426798_its_almost_1000_days_are_you_using_arrow_functions_8741fa9609.jpg",
+          "id": 9,
+          "price": "22.98",
+          "description": "helllo",
+          "orderDate": "29/8/2024"
+        },
+        {
+          "title": "Electronic Bank Representative",
+          "price": "66.50",
+          "description": "https://images.unsplash.com/photo-1719122180607-66d0c7d5c26c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8",
+          "image": "https://images.unsplash.com/photo-1719937050814-72892488f741?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw2fHx8ZW58MHx8fHx8",
+          "id": 14,
+          "orderDate": "29/8/2024"
         }
       ]
+    },
+    {
+      "id": "028525",
+      "username": "xx",
+      "email": "xx@gmail.com",
+      "password": "$2a$10$kl7h6g0Vbl8tIQcCDpN45eKbvtQ68D0ogQxuslF99bs6BdI28eIa.",
+      "purchases": []
+    },
+    {
+      "id": "653637",
+      "username": "x",
+      "email": "x@gmail.com",
+      "password": "$2a$10$uRxc6jURsXQzuK47Wu.Ogu5CmQ0QubQy5S6L97pdJ1HIHuIjp4ueC",
+      "purchases": []
+    },
+    {
+      "id": "678934",
+      "username": "ccc",
+      "email": "ccc@gmail.com",
+      "password": "$2a$10$Y8e3t1F1.wVe/pYNYM0do.iV98HpInw.HCV3/9Vceqk67aftgDf0O",
+      "purchases": []
     }
   ]
 }
