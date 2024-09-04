@@ -84,11 +84,56 @@
   "users": [
     {
       "username": "Hussein Sadiq Elged",
-      "password": "$2a$10$uAnOW6rxSSblvFWzOQ76Z.KNfaek9F7sL1sM47YXPDj8AV6dzrFO2",
+      "password": "$2a$10$JfetOwCSU.NY9Ev15Zs4.Oa2cE4Eva9kom5bLLuXHvjv/E6WoKbda",
       "email": "elged194@gmail.com",
       "image": "/sons.jpg",
       "id": 1,
-      "purchases": []
+      "purchases": [
+        {
+          "id": 1,
+          "title": "NEXT.JS Cours",
+          "price": "120.99",
+          "description": "Your perfect pack for everyday use and walks in the forest. ",
+          "category": "men's clothing",
+          "image": "https://res.cloudinary.com/dyxoy6dpx/image/upload/v1713339423/OIP_56ddcd95de.jpg",
+          "orderDate": "4/9/2024"
+        },
+        {
+          "id": 2,
+          "title": "React.js",
+          "price": "22.98",
+          "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket.",
+          "category": "men's clothing",
+          "image": "https://res.cloudinary.com/dyxoy6dpx/image/upload/v1713333541/medium_R_1_661b03e49b.png",
+          "orderDate": "4/9/2024"
+        },
+        {
+          "id": 3,
+          "title": "Next.js",
+          "price": "80.99",
+          "description": "great outerwear jackets for Spring/Autumn/Winter.",
+          "category": "men's clothing",
+          "image": "https://res.cloudinary.com/dyxoy6dpx/image/upload/v1713241383/R_4514da55bc.png",
+          "orderDate": "4/9/2024"
+        },
+        {
+          "title": "java script",
+          "image": "https://res.cloudinary.com/dyxoy6dpx/image/upload/v1713345162/large_426798_its_almost_1000_days_are_you_using_arrow_functions_8741fa9609.jpg",
+          "id": 9,
+          "price": "22.98",
+          "description": "helllo",
+          "orderDate": "4/9/2024"
+        },
+        {
+          "id": 3,
+          "title": "Next.js",
+          "price": "80.99",
+          "description": "great outerwear jackets for Spring/Autumn/Winter.",
+          "category": "men's clothing",
+          "image": "https://res.cloudinary.com/dyxoy6dpx/image/upload/v1713241383/R_4514da55bc.png",
+          "orderDate": "4/9/2024"
+        }
+      ]
     },
     {
       "username": "Hussein Sadiq",
